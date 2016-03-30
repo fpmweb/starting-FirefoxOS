@@ -15,3 +15,12 @@ These are the screenshots of the example starting FirefoxOS:
 ![alt tag](https://raw.github.com/fpmweb/starting-FirefoxOS/master/img/capture6.jpg)
 
 The sample code is made with http://buildingfirefoxos.com
+
+
+Author:
+=========
+
+| [![twitter/fpmweb](http://2.gravatar.com/avatar/1fffcab4361ad5fafe1a9ab1a161536f)](https://twitter.com/fpmweb "Follow @fpmweb on Twitter") |
+|---|
+
+
